@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "capsula",
+            "database": "timecapsule",
+            "username": "postgres",
+            "password": "Soufeliz@1715"
+        }
+    ]
+}
