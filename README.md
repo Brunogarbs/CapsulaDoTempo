@@ -36,7 +36,21 @@ Este projeto foi desenvolvido como parte do meu estudo prático de novas tecnolo
 ## 📦 Estrutura de Pastas
 
 ---
-
+```tree
+📦 capsula-do-tempo
+├── backend
+│   └── server.js
+├── frontend
+│   ├── public
+│   └── src
+│       ├── App.js
+│       ├── App.css
+│       └── components
+│           ├── PopupModal.js
+│           └── PopupModal.css
+├── README.md
+└── package.json
+```
 ---
 
 ## 🗃️ Banco de Dados (PostgreSQL)
